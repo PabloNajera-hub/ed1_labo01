@@ -8,6 +8,7 @@ public class Main {
                 return a;
             };
 
+
     private static final ArrayGenerator<Integer> invertedArrayGenerator =
             length -> {
                 Integer[] a = new Integer[length];
