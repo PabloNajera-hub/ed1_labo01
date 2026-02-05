@@ -11,7 +11,7 @@ public class Main {
         }
 
         return array;
-    }; // Reemplácelo por una función lambda
+    };
 
     private static final ArrayGenerator<Integer> invertedArrayGenerator = length -> {
         Integer[] array = new Integer[length];
