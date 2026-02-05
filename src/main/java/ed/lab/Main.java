@@ -20,7 +20,7 @@ public class Main {
     public static QuickSort<Integer> getLowPivotQuickSort() {
         return lowPivotQuickSort;
     }
-
+a
     public static QuickSort<Integer> getRandomPivotQuickSort() {
         return randomPivotQuickSort;
     }
